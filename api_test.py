@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from openai import OpenAI
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="your-api-key")
 
 def create_chat_message(role, content):
     return {"role": role, "content": content}
