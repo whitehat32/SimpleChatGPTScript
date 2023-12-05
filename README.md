@@ -27,6 +27,5 @@ SimpleChatGPTScript is a Python script that provides a template for creating a c
 
 You can customize the initial system and user messages in the script to suit your conversation needs.
 
-## Contact
 
-CSDN blog - [CSDN博客](https://blog.csdn.net/qq_39475280) - 1813163384@qq.com
+
